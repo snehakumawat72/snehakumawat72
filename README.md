@@ -33,6 +33,7 @@ I am a passionate web developer, always exploring new technologies and enjoying 
 
 ### Skills
 <div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-start;">
+   <img src="https://img.shields.io/badge/C++-gray?style=flat&logo=cplusplus&logoColor=white" height="28" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=white" height="28" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
@@ -43,7 +44,6 @@ I am a passionate web developer, always exploring new technologies and enjoying 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="28" alt="MySQL" />
-  <img src="https://img.shields.io/badge/C++-gray?style=flat&logo=cplusplus&logoColor=white" height="28" alt="C++" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" height="28" alt="AWS" />
 </div>
 
