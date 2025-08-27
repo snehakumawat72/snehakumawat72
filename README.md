@@ -2,10 +2,11 @@
   <img 
     src="https://camo.githubusercontent.com/187381a0ea3c9d55f095e29baa896a47aa6b53d433f66b511346b4a70f50c7b5/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e6d4d355a3273355a544a7865484135634867335a446873596a4131634456764e577475656d686f4e6e4230654739326258526d64795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966"
     alt="👋 Hi, my name is Sneha Kumawat"
-    height="250"
-    width="320"
+    height="270"
+    width="340"
   />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehakumawat72&label=Profile%20views&color=0e75b6&style=flat" height="28" alt="Profile views" />
 </p>
@@ -18,7 +19,8 @@
 ### Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehakumawat72/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakumawat72@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehakumawat12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehakumawat12/)<br/><br/>
+📧 **Email:** [snehakumawat72@gmail.com](mailto:snehakumawat72@gmail.com)
 
 
 
